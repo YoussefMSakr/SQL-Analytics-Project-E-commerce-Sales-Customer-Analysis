@@ -69,5 +69,5 @@ Two automated dashboards built as SQL Views:
 ---
 
 # Author
-**Major General Analyst / Youssef Sakr  
+Major General Data Analyst / Youssef Sakr  
 Advanced Data Analytics & SQL Project (2025)
