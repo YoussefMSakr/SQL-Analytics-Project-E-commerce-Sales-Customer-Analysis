@@ -92,31 +92,7 @@ sql-ecommerce-analytics/
 - Database with e-commerce transaction data
 ```
 
-### Setup
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/sql-ecommerce-analytics.git
-```
-
-2. **Create database schema**
-```sql
--- Run in SSMS
-:r schema/create_tables.sql
-```
-
-3. **Load sample data (optional)**
-```sql
--- For testing purposes
-:r sample_data/generate_sample_data.sql
-```
-
-4. **Create views**
-```sql
--- Create analytical views
-:r views/vw_customer_lifetime_value.sql
-:r views/vw_monthly_revenue.sql
-```
 
 ## 📊 Analysis Queries
 
