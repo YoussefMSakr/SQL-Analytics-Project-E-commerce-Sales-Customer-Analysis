@@ -369,9 +369,7 @@ SELECT
 - ✅ Business context is essential for meaningful analysis
 - ✅ Modular queries enable reusability
 
-## 📄 License
 
-MIT License
 
 ## 👤 Author
 
